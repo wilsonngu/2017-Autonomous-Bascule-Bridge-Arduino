@@ -11,7 +11,7 @@
 ![Final Bridge Construction](https://user-images.githubusercontent.com/20295767/148148213-4841654f-8615-4388-acbb-e8f7c764d5b0.jpg)
 
 #Weight test of the truss structure
-![Uploading Weighttest.jpg…]()
+![Weighttest](https://user-images.githubusercontent.com/20295767/148148514-f641bbab-7b75-47cc-b88a-be695e9788ae.jpg)
 
-#State diagram of the 3 states
+#State diagram of the 3 states (PDF)
 [State-Diagram.pdf](https://github.com/wilsonngu/Autonomous-Bascule-Bridge-Arduino/files/7811532/State-Diagram.pdf)
